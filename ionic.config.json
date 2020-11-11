@@ -1,0 +1,7 @@
+{
+  "name": "MinecraftHandbook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
